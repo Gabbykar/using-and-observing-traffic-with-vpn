@@ -30,7 +30,7 @@ Also, while connected to the VPN I can go to different sites like, www.netflix.c
 <br />
 
 
-<Observing of traffic using VPN is now Complete!</h2>
+<h2>Observing of traffic using VPN is now Complete!</h2>
 
 <b> We've successfully downloaded, installed, and used a free VPN called ProtonVPN! We observed all of the different changes that happened with our IP address and location, and saw some possibilites like, accessing different content while using a VPN! </b>
 <br />
