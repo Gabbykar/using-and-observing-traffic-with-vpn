@@ -12,13 +12,13 @@
 <br />
 <br />
 
-Here you see Ip address is changed:  <br/>
+Here you see Ip address is changed after VPN is connected:  <br/>
 ![image](https://github.com/user-attachments/assets/bb642969-ec58-4e4d-90b4-a9b87e1bbc4e)
 
 <br />
 <br />
 
-Also, while connected to the VPN I can go to different sites like, www.netflix.com and www.google.com to see the difference compared to if I were on these sites within my own physical computers browser: <br/>
+While connected to the VPN I can browse different sites like, www.netflix.com and www.google.com to see the difference in using a VPN and not using a VPN: <br/>
 <![image](https://github.com/user-attachments/assets/c19191be-5619-4fd8-b01b-169ee004e519)
 
 <br />
