@@ -1,8 +1,10 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/cee7c612-f51f-4562-93e4-086d3be0f07d)
+<img src="https://i.imgur.com/nBkHqaM.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 
 <br />
  <br />
+
+![image](https://github.com/user-attachments/assets/4c7d13f2-61e9-499a-9b1b-549768f965c4)
 
 
 <h1>Observing traffic using the connected VPN | ProtonVPN</h1>
